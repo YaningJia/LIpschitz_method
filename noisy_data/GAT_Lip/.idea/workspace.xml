@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c47a4674-5ecc-41d6-b47a-ad30e35c7440" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/sshConfigs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lipschitz_train_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lipschitz_train_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lipschitz_train_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lipschitz_train_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Lipschitz_GNN.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/Lipschitz_GNN.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lipschitz_constant_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lipschitz_constant_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lipschitz_constant_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lipschitz_constant_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad_norm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/grad_norm_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model_parameter/GAT_model_layer_normal.pth" beforeDir="false" afterPath="$PROJECT_DIR$/model_parameter/GAT_model_layer_normal.pth" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_constant_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/Lipschitz_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/layers.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/layers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../GCN_Lip/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/../GCN_Lip/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sage_Lip/grad_norm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sage_Lip/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Sage_Lip/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="27enuiVOd9a1gWBcwh5ekkFz3xX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c47a4674-5ecc-41d6-b47a-ad30e35c7440" name="Changes" comment="" />
+      <created>1649689646505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649689646505</updated>
+      <workItem from="1649689647854" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
